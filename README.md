@@ -1,1 +1,1 @@
-# Public Issues Tracker for hypercontrol.one
+# Public Issue Tracker for hypercontrol.one
